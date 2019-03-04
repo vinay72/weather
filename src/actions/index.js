@@ -4,6 +4,7 @@ const ROOT_URL = `https://samples.openweathermap.org/data/2.5/forecast?id=${API_
 export const FETCH_WEATHER = 'FETCH_WEATHER';
 
  export function fetchweather(city){
+  const url = '${ROOT_URL}&q=${city}, us';
  	return{
  		type: FETCH_WEATHER
  	};
