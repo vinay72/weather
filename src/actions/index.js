@@ -12,6 +12,7 @@
        
  	return{
  		type: FETCH_WEATHER
+   payload: request
  	};
 
  }
