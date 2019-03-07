@@ -23,3 +23,4 @@ export default class WeatherList extends Component{
 function mapStateToProps({ weather }){
 	return { weather }; // { weather } === { weather: weather }
 }
+export default connect(mapStateToProps)(WeatherList);
