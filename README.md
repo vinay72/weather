@@ -1,5 +1,5 @@
 # ReduxSimpleStarter/Weather
-So, Our App is going to be a Weather Forecast browser. At the Top, a user is going to able to search for a City. 
+So, Our App is going to be a Weather Forecast browser. At the Top, a user is going to be able to search for a City. 
 It also contains various Columns . First Column is actually City Name and 
 the remaining columns are going to be the Temperature, Pressure and Humidity for the next five days.
  <br>
