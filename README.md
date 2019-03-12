@@ -34,3 +34,7 @@ https://github.com/vinay72/weather/blob/master/Images/v2.png
 https://github.com/vinay72/weather/blob/master/Images/v3.png 
 
 https://github.com/vinay72/weather/blob/master/Images/v4.png 
+
+https://github.com/vinay72/weather/blob/master/Images/v5.png
+
+https://github.com/vinay72/weather/blob/master/Images/v6.png
