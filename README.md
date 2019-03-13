@@ -38,3 +38,11 @@ https://github.com/vinay72/weather/blob/master/Images/v4.png
 https://github.com/vinay72/weather/blob/master/Images/v5.png
 
 https://github.com/vinay72/weather/blob/master/Images/v6.png
+
+https://github.com/vinay72/weather/blob/master/Images/v7.png
+
+https://github.com/vinay72/weather/blob/master/Images/v8.png
+
+https://github.com/vinay72/weather/blob/master/Images/v9.png
+
+https://github.com/vinay72/weather/blob/master/Images/v10.png
