@@ -3,7 +3,7 @@ So, Our App is going to be a Weather Forecast browser. At the Top, a user is goi
 It also contains various Columns . First Column is actually City Name and 
 the remaining columns are going to be the Temperature, Pressure and Humidity for the next five days.
  <br>
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+### Redux
 A predictable state container for JavaScript apps.
 
 ### Getting Started
