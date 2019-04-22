@@ -4,7 +4,7 @@ It also contains various Columns . First Column is actually City Name and
 the remaining columns are going to be the Temperature, Pressure and Humidity for the next five days.
  <br>
 ### Redux
-A predictable state container for JavaScript apps.
+A predictable state container for JavaScript apps. You can start learning redux from visiting this link :- 
 
 ### Getting Started
 
