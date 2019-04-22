@@ -5,6 +5,7 @@ the remaining columns are going to be the Temperature, Pressure and Humidity for
  <br>
 ### Redux
 A predictable state container for JavaScript apps. You can start learning redux from visiting this link :- 
+https://redux.js.org/
 
 ### Getting Started
 
