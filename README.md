@@ -28,7 +28,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-### Running Demo at localhost server
+### Running Demo at Node server
 https://github.com/vinay72/weather/blob/master/Images/v1.png
 
 https://github.com/vinay72/weather/blob/master/Images/v2.png
